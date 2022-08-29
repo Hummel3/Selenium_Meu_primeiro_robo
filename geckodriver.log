@@ -1,0 +1,125 @@
+1661734799335	geckodriver	INFO	Listening on 127.0.0.1:55465
+1661734802417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55466" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileF9Tftg"
+1661734802805	Marionette	INFO	Marionette enabled
+1661734802820	Marionette	INFO	Listening on port 55475
+WebDriver BiDi listening on ws://localhost:55466
+Read port: 55475
+1661734803287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileF9Tftg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55466/devtools/browser/3fe0a354-1d8a-4013-8345-53a4964be909
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+1661734822372	Marionette	INFO	Stopped listening on port 55475
+[Parent 12096, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 12096, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661735305006	geckodriver	INFO	Listening on 127.0.0.1:55634
+1661735308086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofile2eVteR"
+1661735308352	Marionette	INFO	Marionette enabled
+1661735308357	Marionette	INFO	Listening on port 55644
+WebDriver BiDi listening on ws://localhost:55635
+Read port: 55644
+1661735308750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofile2eVteR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55635/devtools/browser/4b085121-7a65-4fd5-b3e7-525ab8023d4c
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+1661735329058	Marionette	INFO	Stopped listening on port 55644
+!!! error running onStopped callback: TypeError: callback is not a function
+1661735505331	geckodriver	INFO	Listening on 127.0.0.1:55748
+1661735508389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofilekaTll7"
+1661735508654	Marionette	INFO	Marionette enabled
+1661735508658	Marionette	INFO	Listening on port 55759
+WebDriver BiDi listening on ws://localhost:55749
+Read port: 55759
+1661735509099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofilekaTll7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55749/devtools/browser/92a9ad59-d632-411e-8f17-12effcf47e35
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+1661735528222	Marionette	INFO	Stopped listening on port 55759
+[Parent 22192, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661735687742	geckodriver	INFO	Listening on 127.0.0.1:55841
+1661735690804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileHFBSU9"
+1661735691101	Marionette	INFO	Marionette enabled
+1661735691105	Marionette	INFO	Listening on port 55851
+WebDriver BiDi listening on ws://localhost:55842
+Read port: 55851
+1661735691480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileHFBSU9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55842/devtools/browser/e4f51cfc-a675-4b85-a934-693ece9a4c13
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+1661735710607	Marionette	INFO	Stopped listening on port 55851
+[Parent 15236, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661735849457	geckodriver	INFO	Listening on 127.0.0.1:55942
+1661735853755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofiles8NIVW"
+1661735854039	Marionette	INFO	Marionette enabled
+1661735854044	Marionette	INFO	Listening on port 55953
+WebDriver BiDi listening on ws://localhost:55943
+Read port: 55953
+1661735854182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:55943/devtools/browser/c6c59483-60c0-421f-acb7-232f5a8271c9
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+1661735870985	Marionette	INFO	Stopped listening on port 55953
+1661736041760	geckodriver	INFO	Listening on 127.0.0.1:56026
+1661736046062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofilefWzL88"
+1661736046354	Marionette	INFO	Marionette enabled
+1661736046360	Marionette	INFO	Listening on port 56036
+WebDriver BiDi listening on ws://localhost:56027
+Read port: 56036
+1661736046421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:56027/devtools/browser/3cdc293b-b264-4acd-8613-3c9e53305348
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-e69b7a0f1c0ee89f.js, line 1: WebGL context was lost.
+1661736061310	Marionette	INFO	Stopped listening on port 56036
+[Parent 22808, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661736232675	geckodriver	INFO	Listening on 127.0.0.1:56179
+1661736238024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileLyfDrq"
+1661736238302	Marionette	INFO	Marionette enabled
+1661736238308	Marionette	INFO	Listening on port 56189
+WebDriver BiDi listening on ws://localhost:56180
+Read port: 56189
+1661736238374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:56180/devtools/browser/41bd1d3a-61ae-4611-931d-9019dbb66310
+JavaScript error: , line 0: uncaught exception: Object
+1661736255541	Marionette	INFO	Stopped listening on port 56189
+1661737519078	geckodriver	INFO	Listening on 127.0.0.1:56425
+1661737524393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56426" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileDhg919"
+1661737524695	Marionette	INFO	Marionette enabled
+1661737524700	Marionette	INFO	Listening on port 56435
+WebDriver BiDi listening on ws://localhost:56426
+Read port: 56435
+1661737524805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:56426/devtools/browser/6bc84ca8-896d-40b6-9173-ac7be84b9a14
+JavaScript error: , line 0: uncaught exception: Object
+1661737537449	Marionette	INFO	Stopped listening on port 56435
+!!! error running onStopped callback: TypeError: callback is not a function
