@@ -123,3 +123,356 @@ DevTools listening on ws://localhost:56426/devtools/browser/6bc84ca8-896d-40b6-9
 JavaScript error: , line 0: uncaught exception: Object
 1661737537449	Marionette	INFO	Stopped listening on port 56435
 !!! error running onStopped callback: TypeError: callback is not a function
+1661738379828	geckodriver	INFO	Listening on 127.0.0.1:59157
+1661738385621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59158" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileBT8ePf"
+1661738385959	Marionette	INFO	Marionette enabled
+1661738385964	Marionette	INFO	Listening on port 59167
+WebDriver BiDi listening on ws://localhost:59158
+Read port: 59167
+1661738386146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:59158/devtools/browser/3dc0b744-8a1f-4985-b43a-b539d2a7f517
+1661738394160	Marionette	INFO	Stopped listening on port 59167
+[Parent 13072, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661739320743	geckodriver	INFO	Listening on 127.0.0.1:59361
+1661739326139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59362" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileElQu7a"
+1661739326402	Marionette	INFO	Marionette enabled
+1661739326406	Marionette	INFO	Listening on port 59371
+WebDriver BiDi listening on ws://localhost:59362
+Read port: 59371
+1661739326595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:59362/devtools/browser/e71df143-efd4-4846-8dbe-35e718eba7d5
+JavaScript error: , line 0: uncaught exception: Object
+1661739339094	Marionette	INFO	Stopped listening on port 59371
+1661881919105	geckodriver	INFO	Listening on 127.0.0.1:51067
+1661881924627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51068" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileIbM1f9"
+1661882001462	geckodriver	INFO	Listening on 127.0.0.1:63899
+1661882013773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63900" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileubleGE"
+1661882014630	Marionette	INFO	Marionette enabled
+1661882014635	Marionette	INFO	Listening on port 63911
+WebDriver BiDi listening on ws://localhost:63900
+Read port: 63911
+1661882014793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:63900/devtools/browser/8425f32a-6ee1-46dd-881e-a737dee9605b
+JavaScript error: , line 0: NetworkError: AutoCancel
+1661882091408	Marionette	INFO	Stopped listening on port 63911
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofile39iCAL"
+1661882068151	Marionette	INFO	Marionette enabled
+1661882068155	Marionette	INFO	Listening on port 63924
+WebDriver BiDi listening on ws://localhost:63915
+Read port: 63924
+1661882068314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:63915/devtools/browser/da6c0091-721f-4c07-897c-bfe6a565dcbc
+JavaScript error: , line 0: NetworkError: AutoCancel
+1661882074238	Marionette	INFO	Stopped listening on port 63924
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1661992643279	geckodriver	INFO	Listening on 127.0.0.1:54010
+1661992648499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54011" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofile4M4ZoF"
+1661992648967	Marionette	INFO	Marionette enabled
+1661992648979	Marionette	INFO	Listening on port 54020
+WebDriver BiDi listening on ws://localhost:54011
+Read port: 54020
+1661992649179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:54011/devtools/browser/11ea80e8-889e-4167-a589-0f03d22f4a1e
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+1661995466404	geckodriver	INFO	Listening on 127.0.0.1:57995
+1661995473285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57996" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileXt1qe9"
+1661995473553	Marionette	INFO	Marionette enabled
+1661995473558	Marionette	INFO	Listening on port 58005
+WebDriver BiDi listening on ws://localhost:57996
+Read port: 58005
+1661995473750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:57996/devtools/browser/9ac038ae-9d25-4027-8294-63634aacdffa
+1661995478491	Marionette	INFO	Stopped listening on port 58005
+[Parent 21848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661995495071	geckodriver	INFO	Listening on 127.0.0.1:58058
+1661995500349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileCDZ3dY"
+1661995500626	Marionette	INFO	Marionette enabled
+1661995500631	Marionette	INFO	Listening on port 58068
+WebDriver BiDi listening on ws://localhost:58059
+Read port: 58068
+1661995500823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:58059/devtools/browser/f3d1bc78-2118-459f-ab0a-8d12f371ffc3
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\stefa\AppData\Local\Temp\rust_mozprofileCDZ3dY\thumbnails) because it does not exist
+1661995601881	geckodriver	INFO	Listening on 127.0.0.1:58166
+1661995607283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofilerU6SoM"
+1661995607580	Marionette	INFO	Marionette enabled
+1661995607585	Marionette	INFO	Listening on port 58177
+WebDriver BiDi listening on ws://localhost:58167
+Read port: 58177
+1661995607649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:58167/devtools/browser/8f764281-56f1-4924-be0c-bf780848e476
+1661995612594	Marionette	INFO	Stopped listening on port 58177
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 25116, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661995619382	geckodriver	INFO	Listening on 127.0.0.1:58220
+1661995626761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileulhvWo"
+1661995627030	Marionette	INFO	Marionette enabled
+1661995627035	Marionette	INFO	Listening on port 58232
+WebDriver BiDi listening on ws://localhost:58221
+Read port: 58232
+1661995627249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:58221/devtools/browser/222e72ee-a449-48c8-a9d0-14411c0c36a0
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+1661995811958	geckodriver	INFO	Listening on 127.0.0.1:58367
+1661995817380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofilecGC6B6"
+1661995817650	Marionette	INFO	Marionette enabled
+1661995817655	Marionette	INFO	Listening on port 58378
+WebDriver BiDi listening on ws://localhost:58368
+Read port: 58378
+1661995817806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:58368/devtools/browser/3703aae8-7f25-4bfe-ab6c-f223457fc8df
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: uncaught exception: Object
+1661996029027	geckodriver	INFO	Listening on 127.0.0.1:55078
+1661996034386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileB7F75F"
+1661996034654	Marionette	INFO	Marionette enabled
+1661996034659	Marionette	INFO	Listening on port 55089
+WebDriver BiDi listening on ws://localhost:55079
+Read port: 55089
+1661996034853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:55079/devtools/browser/ec27c77b-84c0-4712-97a5-e999bdd52d64
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: uncaught exception: Object
+1661997371615	geckodriver	INFO	Listening on 127.0.0.1:60996
+1661997377130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofile33rmj3"
+1661997377390	Marionette	INFO	Marionette enabled
+1661997377394	Marionette	INFO	Listening on port 61006
+WebDriver BiDi listening on ws://localhost:60997
+Read port: 61006
+1661997377569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:60997/devtools/browser/2f6bfb67-8563-4420-847a-b46826b08e00
+1661997400679	geckodriver	INFO	Listening on 127.0.0.1:61062
+1661997405963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofilemO0yP2"
+1661997406217	Marionette	INFO	Marionette enabled
+1661997406221	Marionette	INFO	Listening on port 61072
+WebDriver BiDi listening on ws://localhost:61063
+Read port: 61072
+1661997406404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:61063/devtools/browser/3fba6dcc-b545-4fa1-9fbe-1c64cd5d3d98
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+1661997449527	geckodriver	INFO	Listening on 127.0.0.1:61152
+1661997455006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofilemkgKFW"
+1661997455262	Marionette	INFO	Marionette enabled
+1661997455267	Marionette	INFO	Listening on port 61162
+WebDriver BiDi listening on ws://localhost:61153
+Read port: 61162
+1661997455449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:61153/devtools/browser/da08e5be-714c-4168-bb39-2fba062bd380
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: uncaught exception: Object
+1661997557925	geckodriver	INFO	Listening on 127.0.0.1:61227
+1661997563203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61228" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\stefa\\AppData\\Local\\Temp\\rust_mozprofileESg3Hv"
+1661997563597	Marionette	INFO	Marionette enabled
+1661997563602	Marionette	INFO	Listening on port 61237
+WebDriver BiDi listening on ws://localhost:61228
+Read port: 61237
+1661997563780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: SessionStore: "The session file is invalid: TypeError: state is null"
+DevTools listening on ws://localhost:61228/devtools/browser/417188f0-196c-4adc-964e-3d5df44fb2cd
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.ifood.com.br/_next/static/chunks/pages/_app-fa5886b6480ee648.js, line 1: WebGL context was lost.
